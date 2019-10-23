@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="calculo_gauss">
+    <output-path>$PROJECT_DIR$/out/artifacts/calculo_gauss</output-path>
+    <root id="archive" name="calculo_gauss.jar">
+      <element id="archive" name="calculo_gauss.jar">
+        <element id="module-output" name="calculo_gauss" />
+      </element>
+    </root>
+  </artifact>
+</component>
